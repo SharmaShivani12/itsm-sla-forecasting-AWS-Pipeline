@@ -72,6 +72,7 @@ Incident Event Log  (119,998 rows)
 
 ![Evaluation Dashboard](model_evaluation.png)
 
+
 ---
 
 ## ⚙️ Pipeline Details
@@ -172,6 +173,7 @@ print(result)
 3. Set environment variables: `S3_BUCKET`, `S3_PREFIX`, `OPTIMAL_THRESHOLD`
 4. Upload `lambda/lambda_function.py`
 5. Add a **Function URL** or **API Gateway** trigger
+<img width="1227" height="303" alt="Screenshot 2026-03-19 225334" src="https://github.com/user-attachments/assets/56e0ddce-b2ab-45e6-967b-b508238c34de" />
 
 ---
 
