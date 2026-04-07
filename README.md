@@ -173,7 +173,11 @@ print(result)
 3. Set environment variables: `S3_BUCKET`, `S3_PREFIX`, `OPTIMAL_THRESHOLD`
 4. Upload `lambda/lambda_function.py`
 5. Add a **Function URL** or **API Gateway** trigger
-<img width="1227" height="303" alt="Screenshot 2026-03-19 225334" src="https://github.com/user-attachments/assets/56e0ddce-b2ab-45e6-967b-b508238c34de" />
+<img width="1677" height="338" alt="Screenshot 2026-03-22 210345" src="https://github.com/user-attachments/assets/6088e94d-7957-472c-bc26-d0adf5b10d07" />
+<img width="1459" height="430" alt="Screenshot 2026-03-21 163600" src="https://github.com/user-attachments/assets/dd1dd196-90a5-46a3-9e1d-5fc4eb30167b" />
+<img width="1212" height="676" alt="Screenshot 2026-03-19 150913" src="https://github.com/user-attachments/assets/1aef9aa8-e27a-44fd-87f3-228273f649f1" />
+<img width="921" height="244" alt="Screenshot 2026-03-19 151612" src="https://github.com/user-attachments/assets/21656ada-38b3-4330-9cd7-cc7f46e23f00" />
+
 
 ---
 
