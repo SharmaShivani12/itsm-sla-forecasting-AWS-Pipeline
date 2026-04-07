@@ -1,0 +1,22 @@
+{
+  "features": [
+    "priority",
+    "category",
+    "impact",
+    "urgency",
+    "assignment_group",
+    "opened_by",
+    "contact_type"
+  ],
+  "sla_targets": {
+    "1 - Critical": 4,
+    "2 - High": 8,
+    "3 - Moderate": 24,
+    "4 - Low": 72
+  },
+  "optimal_thresh": 0.4328,
+  "auc": 0.8218,
+  "best_f1": 0.8351,
+  "train_samples": 95998,
+  "test_samples": 24000
+}
